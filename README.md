@@ -39,7 +39,7 @@ A concise presentation of the primary metrics, such as recall, precision, F1 sco
 A bar chart illustrating the most influential features in predicting churn, which provides valuable insights into the factors driving customer attrition.
 
 ## Modeling Pipeline
-The notebook for the current project follows a comprehensive modeling pipeline that includes the following stages:
+The notebook (main.ipynb) for the current project follows a comprehensive modeling pipeline that includes the following stages:
 
 * Data Preprocessing:
 
