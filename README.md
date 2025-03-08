@@ -63,3 +63,6 @@ Cross-validation was applied to verify that the model's metrics were stable.
 
 Assessing model performance on the test set using the selected evaluation metrics
 Analyzing the confusion matrix and comparing results against the predefined business objectives
+
+## To run the Dashboard
+To run the Dashboard simply run the app.py file attached in your local file. Solution is builded in Python 3.10
