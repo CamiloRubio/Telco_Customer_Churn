@@ -65,4 +65,4 @@ Assessing model performance on the test set using the selected evaluation metric
 Analyzing the confusion matrix and comparing results against the predefined business objectives
 
 ## To run the Dashboard
-To run the Dashboard simply run the app.py file attached in your local file. Solution is builded in Python 3.10
+To run the Dashboard simply run the app.py file attached in your local file and watch on premise in a link that should look like this: http://127.0.0.1:8050/. Solution is builded in Python 3.10.
